@@ -1,0 +1,5 @@
+{
+  "name": "个人养老金计算器",
+  "description": "全能型个人养老保险/退休金计算器，支持多维度参数调节与实时估算",
+  "requestFramePermissions": []
+}
