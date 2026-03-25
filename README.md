@@ -1,6 +1,6 @@
 # Wages Calculator README_EN.md
 
-[简体中文](./README_CN.md) | [English](./README_EN.md)
+[简体中文](./README_CN.md) | [English](./README.md)
 
 A salary calculation tool tailored for professionals in China, helping you quickly calculate after-tax take-home salary, detailed breakdown of social insurance and housing fund contributions, personal income tax payable. It also supports personal pension income projection and personal income tax preferential policy calculation, to help you clearly understand your salary structure and pension planning.
 
