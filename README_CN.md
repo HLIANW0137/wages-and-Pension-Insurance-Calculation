@@ -1,6 +1,6 @@
 # Wages Calculator
 
-[简体中文](./README.md) | [English](./README_EN.md)
+[简体中文](./README_CN.md) | [English](./README_EN.md)
 
 一款针对国内职场人的薪资计算工具，可帮你快速计算税后到手工资、五险一金扣除明细、个税缴纳金额，同时支持个人养老金收益与个税优惠测算，帮你清晰了解薪资构成与养老规划。
 
